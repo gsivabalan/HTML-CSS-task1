@@ -1,0 +1,15 @@
+.bg-light{
+    background-color: lightgray;
+}
+.heading{
+    background-color: yellow;
+    margin: 4px 0px;
+    padding: 15px 0 15px 15px;
+    
+}
+.card-body{
+    font-size: 15px;
+    text-align: left;
+    line-height: 20px;
+}
+.
